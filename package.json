@@ -1,0 +1,23 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Optional Course in my university",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marius2926/NodeJsCourse.git"
+  },
+  "author": "Marius Chitac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marius2926/NodeJsCourse/issues"
+  },
+  "homepage": "https://github.com/Marius2926/NodeJsCourse#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
